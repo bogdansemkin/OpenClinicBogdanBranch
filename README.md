@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! 
 
 OpenClinica is an open source software for Electronic Data Capture (EDC) and Clinical Data Management (CDM) used to optimize clinical trial workflow in a smart and secure fashion which founded by Bogdan Donchenko. Use OpenClinica to:
 
